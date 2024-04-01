@@ -1,0 +1,10 @@
+1. START
+2. DISPLAY list of items scanned and their prices
+3. CALCULATE total cost of items scanned
+4. DISPLAY total cost
+5. Ask for payment
+6. Process payment
+7. IF payment is unsuccessful, display declined and generate receipt
+8. ELSE, accept payment and generate receipt
+9. DISPLAY "Thank you for shopping with us"
+10. END

@@ -1,0 +1,14 @@
+the algorithm for finding the roots of equation
+
+# for a quadratic equation
+DISPLAY "Enter the value for a: "
+DISPLAY "Enter the value for b: "
+DISPLAY "Enter the value for c: "
+x1 = (-b + (b **2 - 4ac) ** 0.5) / 2a
+x2 = (-b - (b ** 2 - 4ac) ** 0.5) / 2a
+PRINT "The roots of the equation are x1 and x2"
+
+# for a quartic equation
+
+
+
